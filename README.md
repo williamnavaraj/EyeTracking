@@ -1,2 +1,2 @@
 # EyeTracking
-CamusWildes
+CamusWildes Method based eyetracking.
